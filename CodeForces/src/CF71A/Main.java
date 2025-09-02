@@ -9,7 +9,6 @@ public class Main {
 			String str = scan.next();
 			scan.nextLine();
 			int l=str.length();
-			
 			if(l<=10) {
 				System.out.println(str);
 			}
