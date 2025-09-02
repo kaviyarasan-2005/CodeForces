@@ -5,7 +5,7 @@ public class Main {
 		Scanner scan = new Scanner(System.in);
 		int a = scan.nextInt();
 	
-		for(int i=0;i<a;i++) {
+		for(int i=0;i<a;i++){
 			String str = scan.next();
 			scan.nextLine();
 			int l=str.length();
